@@ -22,7 +22,8 @@ causal (1.0.21)          -
 Causal Analysis, for beginners like me can be difficult and tricky to understand
 especially when you come from a space of feature variables and fitting,predicting and optimizing models.
 
-I will be starting with [causality](https://pypi.python.org/pypi/causality/0.0.3) package in Python as only that had a documentation with example to follow.
+I will be starting with [causality](https://pypi.python.org/pypi/causality/0.0.3) package in Python. It has documentation with an example to follow.
+Most other causal packages have that missing.
 
 
 Other resources:
